@@ -34,6 +34,13 @@
 - 🥷 Knight @ LeetCode | 2000+ problems solved
 - 🧠 Specialist @ Codeforces | 350+ problems solved
 
+### 🧠 Coding Profiles
+
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/garvitagg27?ext=contest" />
+  <br />
+</p>
+
 ---
 
 ### 🛠️ Languages & Tools
@@ -48,6 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" />
 </p>
 
 ---
