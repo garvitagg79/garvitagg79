@@ -14,9 +14,6 @@
   <a href="https://www.naukri.com/code360/profile/Garvit_27" target="_blank">
     <img src="https://img.shields.io/badge/Naukri_Code360-0A66C2?style=for-the-badge" />
   </a>
-  <a href="https://www.codingninjas.com/studio/profile/Garvit_27" target="_blank">
-    <img src="https://img.shields.io/badge/Coding Ninjas-FF5722?style=for-the-badge" />
-  </a>
   <a href="https://github.com/garvitagg79" target="_blank">
     <img src="https://img.shields.io/github/followers/garvitagg79?label=Follow&style=for-the-badge&logo=github" />
   </a>
