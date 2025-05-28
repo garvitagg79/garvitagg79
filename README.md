@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garvit Aggarwal</h1>
-<h3 align="center">Full Stack Developer | Mobile Dev | Competitive Programmer</h3>
+<h3 align="center">Full Stack Developer | App Developer | Competitive Programmer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/garvitaggarwal79" target="_blank">
@@ -10,6 +10,18 @@
   </a>
   <a href="https://codeforces.com/profile/garvit27" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.naukri.com/code360/profile/Garvit_27" target="_blank">
+    <img src="https://img.shields.io/badge/Naukri_Code360-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="https://www.codingninjas.com/studio/profile/Garvit_27" target="_blank">
+    <img src="https://img.shields.io/badge/Coding Ninjas-FF5722?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/garvitagg79" target="_blank">
+    <img src="https://img.shields.io/github/followers/garvitagg79?label=Follow&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.youtube.com/@TalkWithGarvit" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
@@ -53,5 +65,4 @@
 
 ---
 
-📫 Reach me at: **garvitagg2020@gmail.com**
-
+📫 Reach me at: **garvitagg27@gmail.com**
