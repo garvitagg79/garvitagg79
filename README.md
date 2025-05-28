@@ -27,17 +27,15 @@
 
 ---
 
-🌱 I'm a passionate developer who loves building practical apps with real-world impact. Creator of [**Imo Habits**](https://play.google.com/store/apps/details?id=com.imohabits.android) — a fitness tracker with 70% offline capability and scalable to 100K users.
+🌱 I'm a passionate developer who loves building practical apps with real-world impact. Creator of [**Imo Habits**](https://play.google.com/store/apps/details?id=com.imohabits.android) — a fitness tracker with offline capability.
 
 👨‍💻 Currently building:
-- 🏋️‍♂️ **[Imo Habits App & Web](https://imohabits.pages.dev/explore)** — Track your workouts, stay consistent.
-- 🗳️ **Nagrik** — Built for Indian elections to empower voters.
-- 🪐 **MetAlien** — A campus social media app with 250+ users.
+- 🏋️‍♂️ **[Imo Habits Website](https://imohabits.pages.dev/explore)** — Get your free curated workouts.
+- 🏋️‍♂️ **[Imo Habits App](https://imohabits.pages.dev/explore](https://play.google.com/store/apps/details?id=com.imohabits.android))** — Track your workouts, stay consistent.
 
 🎯 **Coding Achievements**:
 - 🥷 Knight @ LeetCode | 2000+ problems solved
-- 🧠 Specialist @ Codeforces | Max rating: 1908 (Top 4%)
-- 🏆 Top 545 — LeetCode Weekly Contest 380
+- 🧠 Specialist @ Codeforces | 350+ problems solved
 
 ---
 
